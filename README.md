@@ -1,50 +1,67 @@
-# Hi there! I'm Ismahen Abdallah 👋
+<div align="center">
+  
+ <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ismahen+Abdallah;Full+Stack+JS+Expert;AI+%26+ML+Explorer" alt="Typing SVG" /></h1>
+  <p align="center">
+    <strong>Senior Full Stack Engineer & Multi-Framework Specialist specializing in Clean Architecture and Intelligent Systems.</strong>
+  </p>
 
-### 🚀 Full Stack Web Developer | React & Next.js Expert
-
-I am a passionate **Full Stack Developer** with over 2.5 years of experience building scalable, high-performance web applications. I focus on writing **Clean Code**, implementing **Clean Architecture**, and delivering seamless user experiences.
-
----
-
-### 💻 What I’m working on:
-- 🛠️ Mastering the **Next.js & TypeScript** ecosystem.
-- 🏗️ Implementing **RBAC** (Role-Based Access Control) and secure backend layers.
-- 🎨 Crafting modern UIs with **Tailwind CSS**, **Chakra UI**, and **Framer Motion**.
-- ⚙️ Following **Agile/Scrum** methodologies to deliver quality software.
-
----
-
-### 🛠️ Tech Stack & Tools:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Chakra UI |
-| **Backend** | Node.js, Express, MongoDB, SQL Server |
-| **Mobile & Other** | React Native, Vue.js |
-| **Tools & DevOps** | Git, Postman, Docker, Clean Architecture, Agile/Scrum |
+  <p align="center">
+    <a href="https://ismahenabdallah.github.io/ismahen-abdallah/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/ismahen-abdallah" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:abdaalh.ismahen99@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🔥 GitHub Stats:
+### 🚀 Professional Profile
+- 👨‍💻 Developing enterprise-grade applications across the **Modern JS Ecosystem** (**MERN** / **MEAN** / **MEVN**).
+- 🛠️ 2.6+ years of expertise in **React**, **Next.js**, **Angular**, and **Vue.js** (Framework Agnostic).
+- 🏗️ Strong focus on **Clean Architecture**, **SOLID Principles**, and high-performance scalability.
+- 🧠 Deeply interested in **Artificial Intelligence** and **Machine Learning** integration within Web Apps.
+- 🌍 Based in Sfax, Tunisia — Open to remote opportunities worldwide.
+
+---
+
+### 🛠️ Technical Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/AI_Integration-FF6F61?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismahenabdallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismahenabdallah&layout=compact&theme=tokyonight" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismahenabdallah&show_icons=true&theme=tokyonight&count_private=true" alt="Ismahen's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismahenabdallah&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismahenabdallah&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/ismahen-abdallah" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:abdaalh.ismahen99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
-  </a>
-</p>
-
----
-*“Simplicity is the soul of efficiency.”*
+<div align="center">
+  <p><i>"The goal of AI is to make the invisible visible, and the goal of Engineering is to make it reliable."</i></p>
+</div>
